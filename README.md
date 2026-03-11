@@ -1,36 +1,28 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3.12.7-blueviolet?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/yt--dlp-Latest-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyQt6-6.6+-9B59B6?style=for-the-badge&logo=qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/ffmpeg-8.0.1-6A0DAD?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-
-<br><br>
-
-
+```
 ███╗   ███╗███████╗██████╗ ██╗ █████╗ 
 ████╗ ████║██╔════╝██╔══██╗██║██╔══██╗
 ██╔████╔██║█████╗  ██║  ██║██║███████║
 ██║╚██╔╝██║██╔══╝  ██║  ██║██║██╔══██║
 ██║ ╚═╝ ██║███████╗██████╔╝██║██║  ██║
 ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝
-    ██████╗  ██████╗ ██╗    ██╗███╗   ██╗██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ 
-    ██╔══██╗██╔═══██╗██║    ██║████╗  ██║██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
-    ██║  ██║██║   ██║██║ █╗ ██║██╔██╗ ██║██║     ██║   ██║███████║██║  ██║█████╗  ██████╔╝
-    ██║  ██║██║   ██║██║███╗██║██║╚██╗██║██║     ██║   ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗
-    ██████╔╝╚██████╔╝╚███╔███╔╝██║ ╚████║███████╗╚██████╔╝██║  ██║██████╔╝███████╗██║  ██║
-    ╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+██████╗  ██████╗ ██╗    ██╗███╗   ██╗██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔═══██╗██║    ██║████╗  ██║██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║██║   ██║██║ █╗ ██║██╔██╗ ██║██║     ██║   ██║███████║██║  ██║█████╗  ██████╔╝
+██║  ██║██║   ██║██║███╗██║██║╚██╗██║██║     ██║   ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗
+██████╔╝╚██████╔╝╚███╔███╔╝██║ ╚████║███████╗╚██████╔╝██║  ██║██████╔╝███████╗██║  ██║
+╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
+<img src="https://img.shields.io/badge/Python-3.12.7-blueviolet?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/yt--dlp-Latest-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyQt6-6.6+-9B59B6?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffmpeg-8.0.1-6A0DAD?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
 
-### ⚡ Скачивай всё. Быстро. Красиво. ⚡
-
-**YouTube · TikTok · Instagram · Pinterest**
-
+⚡ **Скачивай всё. Быстро. Красиво.** ⚡  
+**YouTube · TikTok · Instagram · Pinterest**  
 *Best quality. No limits. Just paste & go.*
 
 ---
-
-</div>
 
 ## 🟣 Что это такое?
 
@@ -39,10 +31,10 @@
 
 | Платформа | Видео | Фото | Качество |
 |-----------|:-----:|:----:|:--------:|
-| YouTube | ✅ | — | 4K / 1080p / 720p |
-| TikTok | ✅ | — | Best available |
-| Instagram | ✅ | ✅ | Original |
-| Pinterest | ✅ | ✅ | Original |
+| YouTube | ✅ | — | Original |
+| TikTok | ✅ | — | Original |
+| Instagram | ✅ | — | Original |
+| Pinterest | ✅ | — | Original |
 
 ---
 
